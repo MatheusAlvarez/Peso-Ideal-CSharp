@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Calculo do peso ideal desenvolvido em C# utilizando interface gráfica
+Cálculo do peso ideal desenvolvido em C# utilizando interface gráfica
 
 ## Layout
 ![Peso 1](https://github.com/MatheusAlvarez/Peso-Ideal-CSharp/blob/main/_assets/Peso1.PNG)
