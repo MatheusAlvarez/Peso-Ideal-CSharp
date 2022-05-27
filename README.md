@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  Calculadora em C# 🚀 Concluído ✔️ 🚧
+	🚧  Peso Ideal em C# 🚀 Concluído ✔️ 🚧
 </h4>
 
 <p align="center">
