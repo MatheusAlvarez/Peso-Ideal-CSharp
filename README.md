@@ -12,7 +12,6 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-
 ## 💻 Sobre o projeto
 
 Calculo do peso ideal
